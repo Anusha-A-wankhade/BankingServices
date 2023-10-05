@@ -1,0 +1,2 @@
+# BankingServices
+Create a Java project for Banking Services featuring core functionalities such as checking account balance, making deposits, and withdrawals. Use classes like Bank, Customer, and Transaction to manage customer accounts and transactions. Implement a simple menu in the main class (BankingApp) for user interaction, allowing account creation, deposits, withdrawals, balance checks, and exiting the application.
